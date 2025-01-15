@@ -4,4 +4,4 @@ Example time series of rainfall from Miami Airport and water level at coastal co
 
 We recommend not detrending rainfall.
 
-Shiny should work for any time series, provided data/time column is of class "Date".
+Shiny should work for any time series, provided the data/time column is of class "Date".

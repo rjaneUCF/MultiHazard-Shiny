@@ -88,7 +88,7 @@ We welcome contributions! Whether it’s fixing bugs, suggesting new features, o
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it in accordance with the license terms.
 
 ## 💡 Contact
 

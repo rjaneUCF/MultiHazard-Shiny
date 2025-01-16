@@ -20,12 +20,12 @@
 </p>
 
 
-## Overview
+## 🌟 Overview
 
 The **MultiHazard-Shiny App** is an interactive web application for conducting bivariate joint probability analyses. Powered by the [MultiHazard R package](https://github.com/rjaneUCF/MultiHazard), this application provides a user-friendly interface for conducting advanced statistical analyses on time series data, supporting researchers and practitioners to explore the relationships between hydrological and meteorological variables, aiding in the assessment of multi-hazard risks such as compound flooding.
 
 
-## 🔧 Key Features
+## 🛠 Key Features
 
 - **Interactive Analysis**: Perform bivariate joint probability analysis with an intuitive Shiny interface.
 - **Flexible Data Support**: Analyze time series data with a `Date` class date/time column.
@@ -43,7 +43,7 @@ The **MultiHazard-Shiny App** is an interactive web application for conducting b
 ## 📦 Installation & Usage
 
 ### Option 1: Online Access
-- **Hosted App**: [MultiHazard Shiny App](https://sfwmdcompoundevents.shinyapps.io/MultiHazard_App/)
+- **Hosted App**: Access the app directly through this link: [MultiHazard Shiny App](https://sfwmdcompoundevents.shinyapps.io/MultiHazard_App/)
 
 ### Option 2: Local Installation
 
@@ -66,9 +66,9 @@ The **MultiHazard-Shiny App** is an interactive web application for conducting b
 
 ## 📊 Example Dataset
 
-The repository includes an example dataset located in the `Data` folder, containing:
-- Rainfall data from **Miami Airport**, `Miami_Airport_Rainfall_df.csv`.
-- Water level data at the **S-22 coastal control structure** `S22_Tailwater_df.csv`.
+The repository includes example data files located in the `Data` folder, containing:
+- Rainfall data from **Miami Airport**: `Miami_Airport_Rainfall_df.csv`.
+- Water level data at the **S-22 coastal control structure**: `S22_Tailwater_df.csv`.
 
 ### Notes:
 - **Rainfall Detrending**: We recommend **not detrending rainfall data** before analysis.
@@ -77,11 +77,13 @@ The repository includes an example dataset located in the `Data` folder, contain
 
 ## 📝 Citation
 
-When using this app, please cite the MultiHazard package and associated publications.
+If you use this app in your work, please cite the MultiHazard package and any associated publications. Proper citation supports the development of tools like this one!
+
+>Jane, R., Cadavid, L., Obeysekera, J., and Wahl, T. (2020). Multivariate statistical modelling of the drivers of compound flood events in South Florida, Nat. Hazards Earth Syst. Sci., 20, 2681–2699, https://doi.org/10.5194/nhess-20-2681-2020.
 
 ## 🤝 Contributing
 
-Contributions, bug reports, and suggestions are welcome! Please submit issues or pull requests through the [app repository](https://github.com/rjaneUCF/MultiHazard-Shiny).
+We welcome contributions! Whether it’s fixing bugs, suggesting new features, or improving documentation, your input is valuable. Please submit a pull request or open an issue on the [GitHub repository](https://github.com/rjaneUCF/MultiHazard-Shiny).
 
 ## 📄 License
 
@@ -89,7 +91,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💡 Contact
 
-If you have questions, please contact the repository maintainers.
+For questions or feedback, please contact the repository maintainers.
 
 ---
 

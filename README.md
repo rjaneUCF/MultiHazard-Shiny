@@ -32,6 +32,7 @@ The **MultiHazard-Shiny App** is an interactive web application for conducting b
 - **Data Compatibility**: Works seamlessly with rainfall, water levels, and other hazard-related datasets.
 - **Visualization**: Generate clear and concise visual outputs to aid in decision-making.
 - **Example Dataset**: Includes example time series of rainfall (Miami Airport) and water levels (coastal control structure S-22) in the `Data` folder.
+- **Built-in MultiHazard Package Integration**: Seamless use of advanced statistical tools provided by the MultiHazard R package.
 
 ## 🔗 Quick Links
 
